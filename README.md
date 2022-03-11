@@ -19,6 +19,10 @@
 
 
 >### Codigo  disponivel para estudo 
+
+![](images/app_img_home_vscode.png)
+
+
 #### Saiba mais sobre meus estudos  / Redes sociais 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco0antonio_/)
 
